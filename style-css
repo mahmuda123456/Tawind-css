@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 96%;
+}
+/* Header area start */
+.header-area{
+    background-color: #fff;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 133px;
+    align-items: center;
+}
+.header a{
+    text-decoration: none;
+    color: #000;
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: #000;
+    font-weight: 400;
+    font-size: 14px;
+}
+/* Header area end */
+.banner-area{
+    background-image: url(images/banner/welcome.png);
+    background-size: cover;
+    height: 683px;
+}
+.banner{
+    padding: 50px 0 0 50px;
+}
+.banner h1{
+    background-color: #fff;
+    Width: 359px;
+    Height: 83px;
+    margin-top: 20px;
+}
+.banner p{
+    background-color: #fff;
+    Width: 359px;
+    Height: 83px;
+    margin-top: 20px;
+}
+/* RELATIONSHIPS AREA Start*/
+.relationships-area{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* RELATIONSHIPS AREA end--*/
+
+
+/*SERVICES area start*/
+.services-img-{
+    width: 1440px;
+    height: 680px;
+    margin-top: 1523px;
+   
+} 
+.services h4{
+    border: #fff;
+   width: 359px;
+   height: 83px;
+   margin-left: 112px;
+}
+
+.services-text-area{
+    display: flex;
+    justify-content: space-between;
+}
+.services p{
+    background-color: #fff;
+    width: 1134px;
+    height: 93px;
+    margin-left: 112px;
+}
+/*<!--SERVICES area end-->
